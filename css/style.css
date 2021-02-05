@@ -1,0 +1,55 @@
+.header{
+	background-color: teal;
+	min-height: 150px;
+
+}
+.container{
+
+	
+	border: 20px solid black ;
+overflow:hidden;
+	
+}
+.blog{
+	background-color: purple;
+	min-height: 150px;
+	width: 70%;
+	float:left
+}
+.contact{
+	background-color: #FF5733 ;
+
+	min-height: 150px;
+	width: 30%;
+   float: right
+}
+.wrapper{
+	overflow:hidden;
+
+}
+
+.box{ 
+	
+	min-height: 100px;
+	float: left;
+
+}
+.box1{
+	background: lime;
+width:20%;
+}
+.box2{
+	background: #00FFFF;
+	width:60%;
+}
+.box3{
+	background: #808080;
+	width:20%;
+}
+.footer{
+	background-color: yellow;
+	min-height: 80px;
+}
+
+
+	
